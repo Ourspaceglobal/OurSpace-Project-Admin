@@ -1,0 +1,14 @@
+.faint {
+    opacity: 0.6;
+}
+#nprogress .bar {
+    background-color: var(--dark) !important;
+}
+#nprogress .spinner-icon {
+    border-top-color: var(--dark) !important;
+    border-left-color: var(--dark) !important;
+    border-width: 10px !important;
+}
+#nprogress .peg {
+    box-shadow: 0 0 10px var(--dark), 0 0 5px var(--dark) !important;
+}
